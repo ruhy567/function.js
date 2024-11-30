@@ -5,6 +5,8 @@ function sum(num1,num2){
 sum(6,,5);
 sum (4,8);
 sum (10,10);
+
+////-------/////
 function sum(num1, calculate, num2) {
     let result;
     if (calculate === '+') {
