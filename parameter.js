@@ -15,3 +15,5 @@ function addition(num1, num2){
     console.log('additon of 2 numbers:',sum);
 }
 addition(6,5);
+
+
